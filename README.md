@@ -1,0 +1,1 @@
+This is a repository containing extracted images from the voynich manuscript and their corresponding text documents. These documents are created by assigning certain characters to a letter in the alphabet.
